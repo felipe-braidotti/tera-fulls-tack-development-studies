@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>engenharia mecânica</title>
+    </head>
+
+    <body>
+
+        <header>
+                <h1>Engenharia Mecânica</h1>
+                <h2>A engenhaaria mecânica explicada de forma descomplicada</h2>
+        </header>
+
+        <main>
+            <p>lorem ipsum dort...</p>
+            <img src="maia-dog.png">
+            <a href="http://google.com">Link do Google</a>
+        </main>
+
+        <div>
+            <ol>
+                <li>Item 1</li>
+                <li>Item 2</li>
+            </ol>
+
+            <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+            </ul>
+
+        <footer>
+            <p>dort ipsum lorem</p>
+        </footer>
+
+    </body>
+</html>
